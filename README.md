@@ -1,4 +1,4 @@
 # LLM4CTIMethod
 
 Repository created for the submission to EuroS&P 2025
-<img width="1247" alt="methodology" src="https://github.com/user-attachments/assets/1cadaed1-1168-4722-bfb7-6b6352d35533">
+<img width="1234" alt="methodology-2" src="https://github.com/user-attachments/assets/3a462465-f5d5-41d7-9b2f-bc1db29faca7">
